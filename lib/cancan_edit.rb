@@ -1,0 +1,5 @@
+require "cancan"
+require "cancan_edit/edit_ability"
+require "cancan_edit/edit_additions"
+require "cancan_edit/edit_rule"
+require "cancan_edit/controller_additions"
